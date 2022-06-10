@@ -1,4 +1,4 @@
 # asteroids-rs
 
 Game made to practice Rust.
-(soon)
+(not so soon)
